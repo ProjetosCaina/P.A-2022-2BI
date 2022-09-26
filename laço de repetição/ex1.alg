@@ -8,10 +8,9 @@ leia(numero_inicial)
 escreval("Gigite o final da contagem: ")
 leia(numero_final)
 limpatela
-escreval("Contagem personalizada")
 para contador de numero_inicial ate numero_final faca
    escreval(contador)
-   fimpara
+fimpara
 
 
 fimalgoritmo
